@@ -264,19 +264,22 @@ terminal-chat/
 
 ## 🖼️ Screenshots
 
-### Client Interface
+### Interface Preview
 
-```
-┌─ Users ──┐┌─────────────── Chat ──────────────────┐
-│ > Rahat  ││ [14:30] [server] Alice has joined     │
-│   Alice  ││ [14:31] [group] Alice -> all: Hi!     │
-│   Bob    ││ [14:32] [private] Bob -> Rahat: Hey   │
-│          ││                                        │
-└──────────┘└────────────────────────────────────────┘
-┌─ Input [ /quit | /to <user> | @user msg ] ────────┐
-│ To [all]: _                                        │
-└────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| Screenshot | Description |
+|:----------:|:-----------:|
+| ![Interface 1](bsse_1740_interface/bsse_1740_interface_1.jpg) | Server & Client Startup |
+| ![Interface 2](bsse_1740_interface/bsse_1740_interface_2.png) | User Login |
+| ![Interface 3](bsse_1740_interface/bsse_1740_interface_3.png) | Group Chat |
+| ![Interface 4](bsse_1740_interface/bsse_1740_interface_4.png) | Private Messaging |
+| ![Interface 5](bsse_1740_interface/bsse_1740_interface_5.png) | User List Navigation |
+| ![Interface 6](bsse_1740_interface/bsse_1740_interface_6.png) | Message Filtering |
+| ![Interface 7](bsse_1740_interface/bsse_1740_interface_7.png) | Chat History Scroll |
+| ![Interface 8](bsse_1740_interface/bsse_1740_interface_8.png) | Multi-Client Demo |
+
+</div>
 
 ---
 
